@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dim",
+				"dim"
+			],
+			[
+				"create",
+				"create_validaton"
+			],
+			[
+				"new_",
+				"new_path"
+			],
+			[
+				"new",
+				"new_img"
+			],
+			[
+				"from",
+				"from"
+			],
+			[
+				"word",
+				"word_lexicon"
+			],
+			[
+				"img",
+				"img_array"
+			],
+			[
+				"arr",
+				"arrays"
+			],
+			[
+				"train",
+				"train_generator"
+			],
+			[
+				"pred",
+				"prediction"
+			],
+			[
+				"im",
+				"image_path"
+			],
+			[
+				"image",
+				"image_path"
+			],
+			[
+				"class",
+				"classes"
+			],
+			[
+				"load_",
+				"load_model"
+			],
+			[
+				"load",
+				"load_img"
+			],
+			[
+				"valid",
+				"validation_generator"
+			],
+			[
+				"vali",
+				"validation_data_dir"
+			],
+			[
+				"data",
+				"datagen"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/record-video.py",
+			"settings":
+			{
+				"buffer_size": 1624,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tags.txt",
+			"settings":
+			{
+				"buffer_size": 254,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n\n\t\nNew to OpenCV? Try this: https://youtu.be/YY9f-6u2Q_c\n\nLearn OpenCV & Python Playlist: https://www.youtube.com/playlist?list=PLEsfXFp6DpzRyxnU-vfs3vk-61Wpt7bOS\n\n\nInstall OpenCV for Python on your system:\nMac: https://youtu.be/iluST-V757A\nWindows: https://youtu.be/Fcc_jemaoNU\nLinux with Pi Awesome: https://kirr.co/sx77b7\n\n\nNEW!! Slack Channel: https://kirr.co/n7xgvn",
+			"file": "description.txt",
+			"file_size": 384,
+			"file_write_time": 131677763863805953,
+			"settings":
+			{
+				"buffer_size": 371,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/camera-test.py",
+			"settings":
+			{
+				"buffer_size": 456,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "mark",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/j/Dev/opencvtube"
+	],
+	"file_history":
+	[
+		"/C/Users/j/Dev/opencvtube/src/res-change.py",
+		"/C/Users/j/Dev/opencvtube/src/base.py",
+		"/C/Users/j/Dev/opencvtube/src/camera-test.py",
+		"/C/Users/j/Dev/testopencv/src/camera-test.py",
+		"/C/Users/j/Dev/ai/sentiment/src/predict.py",
+		"/C/Users/j/Dev/learn/udacity/dermatologist-ai/sample_predictions.csv",
+		"/C/Users/j/Dev/learn/udacity/nd101/src/dog-project/pickles/dognames.pickle",
+		"/C/Users/j/Downloads/db.sqlite3",
+		"/C/Users/j/Dev/learn/udacity/nd101/src/examples/misty/misty.py",
+		"/C/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v9.0/NVIDIA_SLA_cuDNN_Support.txt",
+		"/C/Users/j/Dev/learn/ml/fast-style-transfer/setup.sh",
+		"/C/Users/j/Dev/learn/ml/fast-style-transfer/README.md"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 143.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"django",
+			"process",
+			"degrees",
+			"reshape",
+			"batch_size",
+			"optimize"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/record-video.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1084,
+								1084
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\j\\Dev\\opencvtube\\src",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tags.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "description.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								371,
+								4
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/camera-test.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "opencvtube.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
