@@ -2,7 +2,7 @@ import os
 import numpy as np
 import cv2
 
-filename = 'video-gray.avi' # .avi .mp4
+filename = 'video.avi' # .avi .mp4
 frames_per_seconds = 24.0
 my_res = '720p' # 1080p
 
@@ -53,7 +53,7 @@ out = cv2.VideoWriter(filename, video_type_cv2, frames_per_seconds, dims)
 while(True):
     # Capture frame-by-frame
     ret, frame = cap.read()
-    frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+    # frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
     out.write(frame)
     # Display the resulting frame
     cv2.imshow('frame',frame)
