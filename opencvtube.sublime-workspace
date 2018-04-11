@@ -4,123 +4,582 @@
 		"selected_items":
 		[
 			[
-				"dim",
-				"dim"
+				"COLOR_GRAY2R",
+				"COLOR_GRAY2RGBA\tinstance"
 			],
 			[
-				"create",
-				"create_validaton"
+				"COLOR_GRAY2",
+				"COLOR_GRAY2BGRA\tinstance"
 			],
 			[
-				"new_",
-				"new_path"
+				"COLOR_GRAY",
+				"COLOR_GRAY2RGB\tinstance"
+			],
+			[
+				"file",
+				"filename\tstatement"
+			],
+			[
+				"out",
+				"output.avi"
+			],
+			[
+				"in",
+				"interpolation\tstatement"
+			],
+			[
+				"list",
+				"list_display\tstatement"
+			],
+			[
+				"is",
+				"isUploading"
+			],
+			[
+				"fil",
+				"file2\tstatement"
+			],
+			[
+				"conso",
+				"console.log"
+			],
+			[
+				"progressBar",
+				"progressBarHolder"
+			],
+			[
+				"progress",
+				"progressbar"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"vid",
+				"videoFiles"
+			],
+			[
+				"br",
+				"br\tTag"
+			],
+			[
+				"my",
+				"machine_type"
+			],
+			[
+				"machine",
+				"machine_type"
+			],
+			[
+				"mac",
+				"machine_type"
+			],
+			[
+				"h",
+				"HttpResponseRedirect\tclass"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"lecture",
+				"lecture_updates"
+			],
+			[
+				"request",
+				"requested_question\tstatement"
+			],
+			[
+				"get",
+				"get_object_or_404\tfunction"
+			],
+			[
+				"Succe",
+				"successfully"
+			],
+			[
+				"login",
+				"login_required\tfunction"
+			],
+			[
+				"logi",
+				"login_required\tfunction"
+			],
+			[
+				"stipe",
+				"stripe_id\tstatement"
+			],
+			[
+				"ap",
+				"api_key\tstatement"
+			],
+			[
+				"se",
+				"secret\tstatement"
+			],
+			[
+				"mu",
+				"MultipleObjectsReturned"
+			],
+			[
+				"does",
+				"DoesNotExist"
+			],
+			[
+				"Do",
+				"DoesNotExist"
+			],
+			[
+				"html",
+				"htmlsafe"
+			],
+			[
+				"dj",
+				"djcelery"
+			],
+			[
+				"lecu",
+				"lectureCode"
+			],
+			[
+				"vide",
+				"videoFileUrl"
+			],
+			[
+				"project",
+				"project_slug"
+			],
+			[
+				"Http",
+				"Http404\tclass"
+			],
+			[
+				"HTT",
+				"HttpResponse\tclass"
+			],
+			[
+				"save",
+				"save_search"
+			],
+			[
+				"Sear",
+				"SearchAdmin\tclass"
+			],
+			[
+				"Date",
+				"DateTimeField\tclass"
+			],
+			[
+				"pr",
+				"project_results\tstatement"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"Lectur",
+				"Lecture\tclass"
+			],
+			[
+				"P",
+				"Project\tclass"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pass",
+				"password\tstatement"
+			],
+			[
+				"email",
+				"email_user\tstatement"
+			],
+			[
+				"ex",
+				"extra_tags\t''"
+			],
+			[
+				"smart_",
+				"smart_unicode\tstatement"
+			],
+			[
+				"User",
+				"UserDefault\tclass"
+			],
+			[
+				"emai",
+				"email_user\tstatement"
+			],
+			[
+				"get_",
+				"get_user\tfunction"
 			],
 			[
 				"new",
-				"new_img"
+				"new_user"
 			],
 			[
-				"from",
-				"from"
+				"regi",
+				"registration_profile"
 			],
 			[
-				"word",
-				"word_lexicon"
+				"Regi",
+				"RegistrationProfile\tclass"
 			],
 			[
-				"img",
-				"img_array"
+				"url",
+				"urlpatterns\tstatement"
 			],
 			[
-				"arr",
-				"arrays"
+				"ver",
+				"verify_password"
 			],
 			[
-				"train",
-				"train_generator"
+				"chc",
+				"check_password"
 			],
 			[
-				"pred",
-				"prediction"
+				"password",
+				"password"
 			],
 			[
-				"im",
-				"image_path"
+				"api",
+				"api_key"
 			],
 			[
-				"image",
-				"image_path"
+				"Bas",
+				"BasicAuthentication\timport"
 			],
 			[
-				"class",
-				"classes"
+				"jmitch",
+				"jmitchel3"
 			],
 			[
-				"load_",
-				"load_model"
+				"user",
+				"username"
 			],
 			[
-				"load",
-				"load_img"
+				"buc",
+				"bucket_list\tstatement"
 			],
 			[
-				"valid",
-				"validation_generator"
+				"cre",
+				"create_video_tupe\tfunction"
 			],
 			[
-				"vali",
-				"validation_data_dir"
+				"wid",
+				"widget"
 			],
 			[
-				"data",
-				"datagen"
+				"fi",
+				"file_string"
+			],
+			[
+				"Lec",
+				"LectureForm\tclass"
+			],
+			[
+				"Cloud",
+				"cloud_timestamp"
+			],
+			[
+				"Le",
+				"LectureManager\tclass"
+			],
+			[
+				"cl",
+				"cloud_timestamp\tstatement"
+			],
+			[
+				"clud",
+				"cloud_timestamp"
+			],
+			[
+				"now",
+				"now_time"
+			],
+			[
+				"cloud_",
+				"cloud_string"
+			],
+			[
+				"d",
+				"datetime"
+			],
+			[
+				"Htt",
+				"Http404\tclass"
+			],
+			[
+				"get_user",
+				"get_user_model\tfunction"
+			],
+			[
+				"http",
+				"Http404\tclass"
+			],
+			[
+				"H",
+				"HttpResponse\tclass"
+			],
+			[
+				"it",
+				"itemKey\tparam"
+			],
+			[
+				"dom",
+				"domain_name"
+			],
+			[
+				"sett",
+				"settings\tinstance"
+			],
+			[
+				"object",
+				"object_name\tstatement"
+			],
+			[
+				"Project",
+				"ProjectImage\tclass"
+			],
+			[
+				"ww",
+				"ww_width"
+			],
+			[
+				"the",
+				"theRow"
+			],
+			[
+				"make",
+				"make_project_page"
+			],
+			[
+				"back",
+				"back_btn"
+			],
+			[
+				"Aut",
+				"Authentication"
+			],
+			[
+				"code",
+				"coded_string\tstatement"
+			],
+			[
+				"page",
+				"pagecontainer"
+			],
+			[
+				"chan",
+				"changePage"
+			],
+			[
+				"Api",
+				"apiKey"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wisti",
+				"wistia_id"
+			],
+			[
+				"projec",
+				"project-slug"
+			],
+			[
+				"read",
+				"read_already"
+			],
+			[
+				"not",
+				"notify\tstatement"
+			],
+			[
+				"ques",
+				"question_id\tstatement"
+			],
+			[
+				"que",
+				"question_id\tstatement"
+			],
+			[
+				"send",
+				"send_test_email\tfunction"
+			],
+			[
+				"Not",
+				"NotificationAdmin\tclass"
+			],
+			[
+				"No",
+				"Notification\tclass"
+			],
+			[
+				"notifi",
+				"notified\tstatement"
+			],
+			[
+				"ses",
+				"ses\tmodule"
+			],
+			[
+				"My",
+				"MyLectureView\tclass"
+			],
+			[
+				"Suggest",
+				"SuggestionManager"
+			],
+			[
+				"Sugg",
+				"SuggestionManager\tclass"
+			],
+			[
+				"date",
+				"datetime\tclass"
+			],
+			[
+				"ke",
+				"key_list\tstatement"
+			],
+			[
+				"MEDIA",
+				"MEDIA_URL\tstatement"
+			],
+			[
+				"proje",
+				"project\tstatement"
+			],
+			[
+				"key",
+				"key_list_here\tstatement"
+			],
+			[
+				"Lecture",
+				"LectureCode\tclass"
+			],
+			[
+				"le",
+				"lecture_id\tstatement"
+			],
+			[
+				"com",
+				"completed_num"
+			],
+			[
+				"auto_now",
+				"auto_now_add"
+			],
+			[
+				"Dat",
+				"DateTimeField\tclass"
+			],
+			[
+				"comp",
+				"completed\tstatement"
+			],
+			[
+				"nex",
+				"next_lec\tstatement"
+			],
+			[
+				"coo",
+				"cookie_time"
+			],
+			[
+				"wi",
+				"wistiaEmbed"
+			],
+			[
+				"w",
+				"wistiaEmbed"
+			],
+			[
+				"Subc",
+				"subscribed"
+			],
+			[
+				"Projec",
+				"ProjectManager\tclass"
+			],
+			[
+				"Ht",
+				"Http404\tclass"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
+			"contents": "'''\n>> import cv2\n>>> print(cv2.__file__)\n'/Users/jmitch/Dev/opencvtube/lib/python3.6/site-packages/cv2/cv2.cpython-36m-darwin.so'\n>>> exit()\n\n$ ls /Users/jmitch/Dev/opencvtube/lib/python3.6/site-packages/cv2/data/\n\n$ cd /path/to/your/virtualenv/src/\n\n$ ln -s /Users/jmitch/Dev/opencvtube/lib/python3.6/site-packages/cv2/data/ cascades/\n\n\n\n'''\n\n\n\n\nimport numpy as np\nimport cv2\n\n\nface_cascade = cv2.CascadeClassifier('cascades/data/haarcascade_frontalface_alt2.xml')\neye_cascade = cv2.CascadeClassifier('cascades/data/haarcascade_eye.xml')\n\ncap = cv2.VideoCapture(0)\n\n#all_properties\n\n\n\ndef make_1080p():\n    cap.set(3, 1920)\n    cap.set(4, 1080)\n\ndef make_720p():\n    cap.set(3, 1280)\n    cap.set(4, 720)\n\ndef make_480p():\n    cap.set(3, 640)\n    cap.set(4, 480)\n\n\nmake_480p()\n\n\nfor i in range(0, 18):\n    print(f\"Property {i}\", cap.get(i))\n\ndef rescale_frame(frame, percent=75):\n    scale_percent = 75\n    width = int(frame.shape[1] * scale_percent / 100)\n    height = int(frame.shape[0] * scale_percent / 100)\n    dim = (width, height)\n    return cv2.resize(frame, dim, interpolation =cv2.INTER_AREA)\n\ni = 0\nwhile True:\n    rect, frame = cap.read()\n    #frame = rescale_frame(frame)\n    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)\n    faces = face_cascade.detectMultiScale(gray, 1.3, 5)\n    for (x,y,w,h) in faces:\n        cv2.rectangle(frame,(x,y),(x+w,y+h),(255,0,0),2)\n        roi_gray = gray[y:y+h, x:x+w]\n        roi_color = frame[y:y+h, x:x+w]\n        eyes = eye_cascade.detectMultiScale(roi_gray)\n        for (ex,ey,ew,eh) in eyes:\n            cv2.rectangle(roi_color,(ex,ey),(ex+ew,ey+eh),(0,255,0),2)\n\n    \n    cv2.imshow(\"frame\", frame)\n\n\n    if cv2.waitKey(20) & 0xFF == ord('q'):\n        break\n\ncap.release()\ncv2.destroyAllWindows()\n\n\n\n# img = cv2.imread('sachin.jpg')\n# gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)\n\n\n# faces = face_cascade.detectMultiScale(gray, 1.3, 5)\n# for (x,y,w,h) in faces:\n#     cv.rectangle(img,(x,y),(x+w,y+h),(255,0,0),2)\n#     roi_gray = gray[y:y+h, x:x+w]\n#     roi_color = img[y:y+h, x:x+w]\n#     eyes = eye_cascade.detectMultiScale(roi_gray)\n#     for (ex,ey,ew,eh) in eyes:\n#         cv.rectangle(roi_color,(ex,ey),(ex+ew,ey+eh),(0,255,0),2)\n# cv.imshow('img',img)\n# cv.waitKey(0)\n# cv.destroyAllWindows()",
+			"file": "src/faces.py",
+			"file_size": 2256,
+			"file_write_time": 131677213527018602,
+			"settings":
+			{
+				"buffer_size": 2256,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Let's assume you're working off something simple like [this](https://www.codingforentrepreneurs.com/blog/opencv-python-web-camera-quick-test/), you might need to change your frame size and/or video resolution from time to time and do so in the code.\n\nOpenCV makes it easy to change resolution of your video.\nOpenCV also makes it easy to scale your video. \n\n# Adjust Resolution\n\n```\nimport cv2\n\ncap = cv2.VideoCapture(0)\n\ndef make_1080p():\n    cap.set(3, 1920)\n    cap.set(4, 1080)\n\ndef make_720p():\n    cap.set(3, 1280)\n    cap.set(4, 720)\n\ndef make_480p():\n    cap.set(3, 640)\n    cap.set(4, 480)\n\ndef change_res(width, height):\n    cap.set(3, width)\n    cap.set(4, height)\n\nmake_720p()\nchange_res(1280, 720)\n\n```\n\nAs you might have guessed, you **cannot up-scale a resolution** if your camera does not support it. For example, if your camera supports 720p, that's the maximum resolution the above method(s) will allow. \n\n#### Scaling Factor (Downscale/Upscaling)\n```\nimport cv2\n\ncap = cv2.VideoCapture(0)\n\ndef rescale_frame(frame, percent=75):\n    scale_percent = 75\n    width = int(frame.shape[1] * scale_percent / 100)\n    height = int(frame.shape[0] * scale_percent / 100)\n    dim = (width, height)\n    return cv2.resize(frame, dim, interpolation =cv2.INTER_AREA)\n\nwhile True:\n    rect, frame = cap.read()\n    frame75 = rescale_frame(frame, percent=75)\n    cv2.imshow('frame75', frame75)\n    frame150 = rescale_frame(frame, percent=150)\n    cv2.imshow('frame150', frame150)\n\ncap.release()\ncv2.destroyAllWindows()\n```\n\nWith **Scaling** you can change the frame size regardless of your camera's resolution which, of course, could lead to poor results on upscaling (aka too pixelated). \n\nEither way, it's good to have these methods in your wheelhouse. ",
+			"file": "src/blog/OpenCV & Python-  How to Change Resolution or Rescale Frame.md",
+			"file_size": 1758,
+			"file_write_time": 131677220247872368,
+			"settings":
+			{
+				"buffer_size": 1754,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "Let's assume you're working off something simple l"
+			}
+		},
+		{
+			"file": "src/blog/OpenCV & Python-  How to Record Video.md",
+			"settings":
+			{
+				"buffer_size": 1230,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "# Downscale – Preserve Aspect Ratio\n\n\nimport cv2\n \nimg = cv2.imread('/home/img/python.png', cv2.IMREAD_UNCHANGED)\n \nprint('Original Dimensions : ',img.shape)\n \nscale_percent = 60 # percent of original size\nwidth = int(img.shape[1] * scale_percent / 100)\nheight = int(img.shape[0] * scale_percent / 100)\ndim = (width, height)\n \n# resize image\nresized = cv2.resize(img, dim, interpolation = cv2.INTER_AREA)\n \nprint('Resized Dimensions : ',resized.shape)\n \ncv2.imshow(\"Resized image\", resized)\ncv2.waitKey(0)\ncv2.destroyAllWindows()\n\n# upscale \nimport cv2\n \nimg = cv2.imread('/home/img/python.png', cv2.IMREAD_UNCHANGED)\n \nprint('Original Dimensions : ',img.shape)\n \nscale_percent = 220 # percent of original size\nwidth = int(img.shape[1] * scale_percent / 100)\nheight = int(img.shape[0] * scale_percent / 100)\ndim = (width, height)\n \n# resize image\nresized = cv2.resize(img, dim, interpolation = cv2.INTER_AREA)\n \nprint('Resized Dimensions : ',resized.shape)\n \ncv2.imshow(\"Resized image\", resized)\ncv2.waitKey(0)\ncv2.destroyAllWindows()\n",
+			"file": "src/scaling.py",
+			"file_size": 0,
+			"file_write_time": 131677206188700306,
+			"settings":
+			{
+				"buffer_size": 1035,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "src/record-video.py",
 			"settings":
 			{
 				"buffer_size": 1624,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
+			"contents": "IT'S LIVE TIME!\n\nIf you need help, LIVE Q&As are for you. I answer nearly every question I can when we go live. \n\nDo you want to join me?  Go to https://www.youtube.com/codingentrepreneurs​​, SUBSCRIBE, and hit the bell for notifications like...\n​\nOnce you do that, you'll hear about every time we post a new live event. We've done one almost every day this past week.\nAs you may notice, I've posted a TON of new content on there to help you with your journey in becoming a better coder and/or entrepreneur.\nWhy am I doing this? \nTo help you. Seriously. I get so many questions and I want to make 1 place everyone can ask them live. I make content for you to watch. Without you, there's not watching and no need to continue to make content. \n​100,000 Subs. ​My immediate YouTube goal is to hit 100k subs. Why? I believe this will end up helping more people because more subs means better content (ie more questions asked, more issues found, more suggestions, etc). ALSO it's because the greater opportunity is upon us...\n7,480 Million people still don't know how to code. This is MASSIVE and it means that you, yes you, can do incredible things for your community. This also means that there is only about 20million people coding for everyone else. THIS IS NUTS. This world of technology is too important for just 0.2% of the population doing anything.\n\n\nSo... what do you think? Would you join me in going live?\n\nThank you!\n\n\nJustin Mitchel\n\nCoding for Entrepreneurs​\n\n\n\n \n\n\n\n​",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "tags.txt",
-			"settings":
-			{
-				"buffer_size": 254,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "\n\n\t\nNew to OpenCV? Try this: https://youtu.be/YY9f-6u2Q_c\n\nLearn OpenCV & Python Playlist: https://www.youtube.com/playlist?list=PLEsfXFp6DpzRyxnU-vfs3vk-61Wpt7bOS\n\n\nInstall OpenCV for Python on your system:\nMac: https://youtu.be/iluST-V757A\nWindows: https://youtu.be/Fcc_jemaoNU\nLinux with Pi Awesome: https://kirr.co/sx77b7\n\n\nNEW!! Slack Channel: https://kirr.co/n7xgvn",
-			"file": "description.txt",
-			"file_size": 384,
-			"file_write_time": 131677763863805953,
-			"settings":
-			{
-				"buffer_size": 371,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/camera-test.py",
-			"settings":
-			{
-				"buffer_size": 456,
-				"line_ending": "Windows"
+				"buffer_size": 1478,
+				"line_ending": "Unix",
+				"name": "IT'S LIVE TIME!"
 			}
 		}
 	],
@@ -131,22 +590,19 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "mark",
+		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"mark",
-				"Markdown Preview: Preview in Browser"
-			]
 		],
-		"width": 412.0
+		"width": 0.0
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 125.0,
 		"history":
 		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
 		]
 	},
 	"distraction_free":
@@ -158,34 +614,151 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/Users/j/Dev/opencvtube"
-	],
 	"file_history":
 	[
-		"/C/Users/j/Dev/opencvtube/src/res-change.py",
-		"/C/Users/j/Dev/opencvtube/src/base.py",
-		"/C/Users/j/Dev/opencvtube/src/camera-test.py",
-		"/C/Users/j/Dev/testopencv/src/camera-test.py",
-		"/C/Users/j/Dev/ai/sentiment/src/predict.py",
-		"/C/Users/j/Dev/learn/udacity/dermatologist-ai/sample_predictions.csv",
-		"/C/Users/j/Dev/learn/udacity/nd101/src/dog-project/pickles/dognames.pickle",
-		"/C/Users/j/Downloads/db.sqlite3",
-		"/C/Users/j/Dev/learn/udacity/nd101/src/examples/misty/misty.py",
-		"/C/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v9.0/NVIDIA_SLA_cuDNN_Support.txt",
-		"/C/Users/j/Dev/learn/ml/fast-style-transfer/setup.sh",
-		"/C/Users/j/Dev/learn/ml/fast-style-transfer/README.md"
+		"/Users/jmitch/Dropbox/Business/Clients/red/v2/products/templates/products/emails/user_success_template.txt",
+		"/Users/jmitch/Dropbox/Business/Clients/red/v2/red/hostsconfig/__init__.py",
+		"/Users/jmitch/Dropbox/Business/Clients/red/v2/red/hostsconfig/redirect_urls.py",
+		"/Users/jmitch/Dropbox/Business/Clients/red/v2/hostsconfig/__init__.py",
+		"/Users/jmitch/Dropbox/Business/Clients/red/static/templates/form.html",
+		"/Users/jmitch/Dropbox/Business/Clients/red/src/red/views.py",
+		"/Users/jmitch/Dropbox/Business/Clients/red/src/red/forms.py",
+		"/Users/jmitch/Dropbox/Business/Clients/red/src/red/settings.py",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/settings/base.py",
+		"/Users/jmitch/Dropbox/cfe/static/static/img/ios2/cfe_icon_IO_inverse_less.png",
+		"/Users/jmitch/Dropbox/cfe/static/static/img/ios/114.png",
+		"/Users/jmitch/Dropbox/cfe/static/static/img/leap_blue.png",
+		"/Users/jmitch/Dropbox/cfe/src/templates/projects/single_backup.html",
+		"/Users/jmitch/Dropbox/cfe/src/notifications/models.py",
+		"/Users/jmitch/Dropbox/cfe/src/notifications/views.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/navbar.html",
+		"/Users/jmitch/Dropbox/cfe/src/projects/models.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/profiles/subscribe.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/downloads/home.html",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/urls.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/dashboard.html",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/settings/production.py",
+		"/Users/jmitch/Dropbox/cfe/src/analytics/models.py",
+		"/Users/jmitch/Dropbox/cfe/src/projects/urls.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/base.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/questions/single.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/projects/lecture.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/questions/signgle.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/projects/downloads.html",
+		"/Users/jmitch/Dropbox/cfe/src/projects/views.py",
+		"/Users/jmitch/Dropbox/cfe/src/questions/views.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/profiles/navbar.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/profiles/payment_history.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/profiles/payment_cards.html",
+		"/Users/jmitch/Dropbox/cfe/src/profiles/views.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/home.html",
+		"/Users/jmitch/Dropbox/cfe/src/projects/cloudfront.py",
+		"/Users/jmitch/Dropbox/cfe/src/profiles/forms.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/profiles/account.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/profiles/account_questions.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/notifications/account_notifications.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/profiles/account_edit.html",
+		"/Users/jmitch/Dropbox/cfe/static/static/css/docs.css",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/settings/local.py",
+		"/Users/jmitch/Dropbox/cfe/src/requirements.txt",
+		"/Users/jmitch/Dropbox/cfe/src/templates/profiles/account_base.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/projects/all.html",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/views.py",
+		"/Users/jmitch/Dropbox/cfe/src/notifications/tasks.py",
+		"/Users/jmitch/Dropbox/cfe/src/notifications/tests.py",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/celery.py",
+		"/Users/jmitch/Dropbox/cfe/src/downloads/views.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/projects/downloads_old.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/footer.html",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/middleware.py",
+		"/Users/jmitch/Dropbox/cfe/src/enroll/urls.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/enroll/stripe.html",
+		"/Users/jmitch/Desktop/old/cfe/src/cfe/middleware.py",
+		"/Users/jmitch/Desktop/data.json",
+		"/Users/jmitch/Dropbox/cfe/src/enroll/views.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/projects/lecture_new.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/enroll/enroll.html",
+		"/Users/jmitch/Dropbox/cfe/src/profiles/models.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/projects/single.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/javascript.html",
+		"/Users/jmitch/Dropbox/cfe/src/enroll/urls.py]",
+		"/Users/jmitch/Dropbox/cfe/src/templates/projects/downloads_ajax.html",
+		"/Users/jmitch/Dropbox/cfe/src/analytics/views.py",
+		"/Users/jmitch/Dropbox/cfe/src/notifications/celery.py",
+		"/Users/jmitch/Dropbox/cfe/src/search/admin.py",
+		"/Users/jmitch/Dropbox/cfe/src/search/models.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/search/results.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/html_head.html",
+		"/Users/jmitch/Dropbox/cfe/src/search/views.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/downloads/views.html",
+		"/Users/jmitch/Dropbox/cfe/src/downloads/templates/view.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/profiles/login.html",
+		"/Users/jmitch/Dropbox/cfe/src/.gitignore",
+		"/Users/jmitch/Dropbox/cfe/src/templates/registration/registration_form.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/registration/login.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/projects/suggestion.html",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/braintree_info.py",
+		"/Users/jmitch/Dropbox/cfe/src/profiles/admin.py",
+		"/Users/jmitch/Dropbox/cfe/src/analytics/admin.py",
+		"/Users/jmitch/Dropbox/cfe/src/questions/models.py",
+		"/Users/jmitch/Dropbox/cfe/src/projects/forms.py",
+		"/Users/jmitch/Dropbox/cfe/src/projects/api.py",
+		"/Users/jmitch/Dropbox/cfe/src/projects/admin.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/legal/sidebar.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/legal/refund.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/legal/privacy.html",
+		"/Users/jmitch/Dropbox/cfe/src/Procfile",
+		"/Users/jmitch/Dropbox/cfe/src/templates/registration/registration_complete.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/registration/activation_complete.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/registration/password_reset_email.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/registration/activation_email.txt",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/settings/jwplayer.js",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/settings/cloudfront.html",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/settings/cloudfront.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/registration/kickstarter.txt",
+		"/Users/jmitch/Dropbox/cfe/src/templates/registration/kickstarter.html",
+		"/Users/jmitch/Dropbox/cfe/src/profiles/pipeline/user.py",
+		"/Users/jmitch/Dropbox/cfe/src/notifications/admin.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/jquery/test.html",
+		"/Users/jmitch/Dropbox/cfe/jquery/index.html",
+		"/Users/jmitch/Dropbox/cfe/jquery/index2.html",
+		"/Users/jmitch/Dropbox/cfe/src/send_test_email.py",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/middleware/social_auth_exception.py",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/urls_ajax.py",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/middleware/__init__.py",
+		"/Users/jmitch/Dropbox/cfe/src/new_notifications/admin.py",
+		"/Users/jmitch/Dropbox/cfe/src/new_notifications/models.py",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/s3utils.py",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/settings/__init__.py",
+		"/Users/jmitch/Dropbox/cfe/src/projects/templatetags/filename.py",
+		"/Users/jmitch/Dropbox/cfe/src/projects/ajax.py",
+		"/Users/jmitch/Dropbox/cfe/src/cfe/store.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/projects/downloads_project.html",
+		"/Users/jmitch/Dropbox/cfe/src/templates/projects/downloads_project.hmlt",
+		"/Users/jmitch/Dropbox/cfe/src/templates/projects/downloads_coming.html",
+		"/Users/jmitch/Dropbox/cfe/src/projects/storage.py",
+		"/Users/jmitch/Dropbox/cfe/src/templates/500.html",
+		"/Users/jmitch/Desktop/wistia2.html",
+		"/Users/jmitch/Dropbox/cfe/src/all.json",
+		"/Users/jmitch/Dropbox/cfe/src/projects/templatetags/resumetime.py",
+		"/Users/jmitch/Dropbox/cfe/src/questions/migrations/0001_initial.py",
+		"/Users/jmitch/Dropbox/cfe/src/analytics/migrations/0001_initial.py",
+		"/Users/jmitch/Dropbox/cfe/src/questions/migrations/0009_auto__add_field_question_updated.py"
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
-		"height": 143.0,
+		"height": 101.0,
 		"where_history":
 		[
+			"/Users/jmitch/Dropbox/Business/Clients/red/v2",
+			"",
+			"/Users/jmitch/Dropbox/cfe/src",
+			"/Users/jmitch/Desktop",
+			"/Users/jmitch/Dropbox/cfe/src"
 		]
 	},
 	"find_state":
@@ -193,34 +766,290 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"django",
-			"process",
-			"degrees",
-			"reshape",
-			"batch_size",
-			"optimize"
+			"size",
+			"print",
+			"disqus",
+			"embed.js",
+			"webinar",
+			"<img",
+			"img",
+			"python",
+			"kick",
+			"stripe",
+			"basic",
+			"urban",
+			"brain",
+			"let's",
+			"the projects",
+			"start",
+			"facebook",
+			"back",
+			"question",
+			"dashboard",
+			"follow",
+			"Follow",
+			"follow",
+			"breadcrumb",
+			"submit",
+			"lecture",
+			"submit",
+			"questions",
+			"question",
+			"notification",
+			"get_full_path",
+			"queryset",
+			"query",
+			"code",
+			"zip",
+			"subscribe",
+			"zip",
+			"downloads(",
+			"downloads",
+			"pub",
+			"subscribe",
+			"instance",
+			"question",
+			"notifications",
+			"hello_world",
+			"messages",
+			"social",
+			"connected",
+			"connect",
+			"installed",
+			"account",
+			"edit",
+			"my questions",
+			"myquestions",
+			"account",
+			"account.html",
+			"account",
+			"home",
+			"let's",
+			"proficient",
+			"profecient",
+			"pro",
+			"all",
+			"project",
+			"exit full",
+			"cloud",
+			"update",
+			"downloads(",
+			"downloads",
+			"p class='lead",
+			"footer",
+			"cfe_login",
+			"cfe-loing",
+			"login",
+			"member_status",
+			"account",
+			"stripe.api_key",
+			"stripe",
+			"member_status",
+			"account",
+			"ajax",
+			"enroll",
+			"create",
+			"login",
+			"client",
+			".user",
+			"user",
+			"accounts",
+			"http404",
+			"login",
+			"enroll",
+			"checkout",
+			"next",
+			"ajax",
+			"redis",
+			"{% load",
+			"Video",
+			"project",
+			"lecture(",
+			"code",
+			"lecture code",
+			"type",
+			"lecture(",
+			"file",
+			"download",
+			"project",
+			"flat",
+			"search",
+			"template",
+			"left",
+			"project",
+			"vimeo",
+			"logout",
+			"login",
+			"redirect",
+			"safe",
+			"html",
+			"safe",
+			"logout",
+			"login",
+			"auth",
+			"HttpResponseRedirect",
+			"generate",
+			"download",
+			"suggest",
+			"staticfiles",
+			"download",
+			"generate"
 		],
-		"highlight": true,
+		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
 		[
+			"<img class='img-responsive'",
+			"'",
+			"{})",
+			"render(request,",
+			"render(",
+			")",
+			"render(request,",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com"
 		],
 		"reverse": false,
-		"show_context": true,
-		"use_buffer2": true,
+		"show_context": false,
+		"use_buffer2": false,
 		"whole_word": false,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 5,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "src/faces.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								625,
+								625
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/blog/OpenCV & Python-  How to Change Resolution or Rescale Frame.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								459,
+								459
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "Let's assume you're working off something simple l",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/blog/OpenCV & Python-  How to Record Video.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								530,
+								530
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/scaling.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
 					"file": "src/record-video.py",
 					"semi_transient": false,
 					"settings":
@@ -232,99 +1061,17 @@
 						"selection":
 						[
 							[
-								1084,
-								1084
+								63,
+								63
 							]
 						],
 						"settings":
 						{
+							"auto_complete": false,
+							"show_definitions": false,
 							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1204.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"default_dir": "C:\\Users\\j\\Dev\\opencvtube\\src",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "tags.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 254,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								254,
-								254
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "description.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 371,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								371,
-								4
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -334,31 +1081,31 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "src/camera-test.py",
-					"semi_transient": true,
+					"buffer": 5,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 456,
+						"buffer_size": 1478,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								177,
-								223
+								260,
+								260
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"auto_name": "IT'S LIVE TIME!",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -366,11 +1113,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 41.0
+		"height": 26.0
 	},
 	"input":
 	{
-		"height": 53.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -397,13 +1144,17 @@
 	"menu_visible": true,
 	"output.find_results":
 	{
+		"height": 182.0
+	},
+	"output.mdpopups":
+	{
 		"height": 0.0
 	},
 	"pinned_build_system": "",
 	"project": "opencvtube.sublime-project",
 	"replace":
 	{
-		"height": 78.0
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -426,22 +1177,22 @@
 	},
 	"select_symbol":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 870.0
 	},
 	"selected_group": 0,
 	"settings":
 	{
 	},
 	"show_minimap": true,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 294.0,
+	"side_bar_width": 224.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

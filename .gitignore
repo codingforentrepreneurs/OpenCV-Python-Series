@@ -1,3 +1,10 @@
+# Ignore video files
+*.mp4
+*.avi
+*.mov
+*.wmv
+
+
 description.txt
 tags.txt
 Include/
