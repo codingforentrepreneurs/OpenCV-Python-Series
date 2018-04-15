@@ -1,5 +1,6 @@
 import cv2
 import os
+
 # source: https://stackoverflow.com/a/44659589
 def image_resize(image, width = None, height = None, inter = cv2.INTER_AREA):
     # initialize the dimensions of the image to be resized and
