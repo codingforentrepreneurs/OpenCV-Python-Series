@@ -33,6 +33,7 @@ def image_resize(image, width = None, height = None, inter = cv2.INTER_AREA):
 class CFEVideoConf(object):
     # Standard Video Dimensions Sizes
     STD_DIMENSIONS =  {
+        "360p": (480, 360),
         "480p": (640, 480),
         "720p": (1280, 720),
         "1080p": (1920, 1080),
@@ -51,7 +52,7 @@ class CFEVideoConf(object):
     dims            = (640, 480)
     capture         = None
     video_type      = None
-    def __init__(self, capture, filepath, res="720p", *args, **kwargs):
+    def __init__(self, capture, filepath, res="480p", *args, **kwargs):
         self.capture = capture
         self.filepath = filepath
         self.width, self.height = self.get_dims(res=res)
@@ -63,7 +64,7 @@ class CFEVideoConf(object):
         self.capture.set(3, width)
         self.capture.set(4, height)
 
-    def get_dims(self, res='1080p'):
+    def get_dims(self, res='480p'):
         width, height = self.STD_DIMENSIONS['480p']
         if res in self.STD_DIMENSIONS:
             width, height = self.STD_DIMENSIONS[res]
