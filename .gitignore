@@ -8,6 +8,8 @@
 description.txt
 tags.txt
 Include/
+tests/
+notes.md
 Lib/
 Scripts/
 tcl/
