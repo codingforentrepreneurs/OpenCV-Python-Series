@@ -14,7 +14,7 @@ Lib/
 Scripts/
 tcl/
 pip-selfcheck.json
-
+saved-media/
 .DS_STORE
 
 # Virtualenv related

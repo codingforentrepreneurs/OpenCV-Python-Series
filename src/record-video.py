@@ -47,8 +47,9 @@ def get_video_type(filename):
 cap = cv2.VideoCapture(0)
 dims = get_dims(cap, res=my_res)
 video_type_cv2 = get_video_type(filename)
+save_path = os.path.join('saved-media', filename)
 
-out = cv2.VideoWriter(filename, video_type_cv2, frames_per_seconds, dims)
+out = cv2.VideoWriter(save_path, video_type_cv2, frames_per_seconds, dims)
 
 while(True):
     # Capture frame-by-frame
