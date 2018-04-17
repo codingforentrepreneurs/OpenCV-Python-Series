@@ -4,6 +4,7 @@
 *.mov
 *.wmv
 
+stereovision.py
 
 old/
 notes.txt
