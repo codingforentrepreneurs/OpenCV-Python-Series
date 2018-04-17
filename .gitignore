@@ -5,6 +5,8 @@
 *.wmv
 
 
+old/
+notes.txt
 description.txt
 tags.txt
 Include/
