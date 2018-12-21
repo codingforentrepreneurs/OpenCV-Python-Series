@@ -8,7 +8,7 @@ smile_cascade = cv2.CascadeClassifier('cascades/data/haarcascade_smile.xml')
 
 
 recognizer = cv2.face.LBPHFaceRecognizer_create()
-recognizer.read("./recognizors/face-trainner.yml")
+recognizer.read("./recognizers/face-trainner.yml")
 
 labels = {"person_name": 1}
 with open("pickles/face-labels.pickle", 'rb') as f:
