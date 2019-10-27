@@ -21,7 +21,8 @@ def change_res(width, height):
 
 
 def rescale_frame(frame, percent=75):
-    scale_percent = 75
+    # scale_percent = 75         #  this will make it fix so if we change when call it will not change and alway 75 so we have to make it scale_percent=percent
+    scale_percent = percent
     width = int(frame.shape[1] * scale_percent / 100)
     height = int(frame.shape[0] * scale_percent / 100)
     dim = (width, height)
